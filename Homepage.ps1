@@ -2,8 +2,6 @@
 Set-Content `
   -Path "C:\\inetpub\\wwwroot\\Default.htm" `
   -Value "
-  
-  <!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
 <head>
     <meta charset="utf-8"> <!-- utf-8 works for most cases -->
@@ -1037,17 +1035,4 @@ Set-Content `
     <![endif]-->
     </center>
 </body>
-</html>
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  "
+</html>"
